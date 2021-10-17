@@ -3,7 +3,7 @@
 
 1) Forex сервис (REST сервис на основе Spring Boot Starter Web, Spring Boot Started JPA, Hibernate для реализации JPA и подключения к базе данных H2).
 Forex Service (FS) является поставщиком услуг. Он обеспечивает значения курсов обмена валюты для различных валют.
-Сервис создан в плагине Spring в Spring Tool Suite, использованы следующие зависимости:
+Сервис создан в плагине Spring Tool Suite, использованы следующие зависимости:
 
 — Web
 — DevTools
